@@ -1,0 +1,18 @@
+E:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\bin\Debug\exerc_3.exe.config
+E:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\bin\Debug\exerc_3.exe
+E:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\bin\Debug\exerc_3.pdb
+E:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.csprojResolveAssemblyReference.cache
+E:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.exe
+E:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.pdb
+J:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\bin\Debug\exerc_3.exe.config
+J:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.exe
+J:\ETEC\1º MÓDULO\PROGRAMAÇÃO E ALGORÍTMO\atividades\15_05\exercícios_3\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.pdb
+D:\ALGORITIMO\exerc_3\exerc_3\exerc_3\bin\Debug\exerc_3.exe.config
+D:\ALGORITIMO\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.exe
+D:\ALGORITIMO\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.pdb
+D:\ALGORITIMO\exerc_3\exerc_3\exerc_3\bin\Debug\exerc_3.exe
+D:\ALGORITIMO\exerc_3\exerc_3\exerc_3\bin\Debug\exerc_3.pdb
+D:\ALGORITIMO\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.csprojResolveAssemblyReference.cache
+C:\Users\EtecAB\Desktop\Exercios Lista 3\exerc_3\exerc_3\exerc_3\bin\Debug\exerc_3.exe.config
+C:\Users\EtecAB\Desktop\Exercios Lista 3\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.exe
+C:\Users\EtecAB\Desktop\Exercios Lista 3\exerc_3\exerc_3\exerc_3\obj\Debug\exerc_3.pdb

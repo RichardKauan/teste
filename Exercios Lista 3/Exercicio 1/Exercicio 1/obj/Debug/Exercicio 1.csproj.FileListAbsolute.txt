@@ -1,0 +1,6 @@
+C:\Users\EtecAB\Desktop\Exercios Lista 3\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+C:\Users\EtecAB\Desktop\Exercios Lista 3\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe
+C:\Users\EtecAB\Desktop\Exercios Lista 3\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.pdb
+C:\Users\EtecAB\Desktop\Exercios Lista 3\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\EtecAB\Desktop\Exercios Lista 3\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.exe
+C:\Users\EtecAB\Desktop\Exercios Lista 3\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.pdb
